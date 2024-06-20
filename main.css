@@ -1,0 +1,48 @@
+.header {
+    height: var(--header-height);
+    background-color: var(--header-background-color);
+    color: var(--text-color);
+}
+
+.header__version {
+    padding: 65px 0 0 140px;
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: 'SF Mono', sans-serif;
+}
+
+.header__content {
+    padding-left: 131px;
+    height: calc(var(--header-background-color) - 79px);
+    font-size: 20rem;
+    line-height: 23.867rem;
+    font-weight: 700;
+    font-family: 'New York Extra Large', sans-serif;
+}
+
+.content {
+    padding: 103px 0 0 131px;
+}
+
+.content-title {
+    font-family: 'New York Extra Large', sans-serif;
+    font-size: 4.4rem;
+    line-height: 5.251rem;
+    font-weight: 700;
+}
+
+.content-desc {
+    font-family: 'SF Pro Text', sans-serif;
+    font-size: 2.0rem;
+    line-height: 2.387rem;
+    font-weight: 400;
+    border-left: 6px solid var(--text-color);
+    padding-left: 29px;
+    margin-top: 26px;
+    margin-left: 3px;
+}
+
+.font-desc {
+    padding-left: 5px;
+
+}

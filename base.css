@@ -1,0 +1,77 @@
+:root {
+    --header-background-color: #FFD900;
+    --text-color: #000;
+
+    --header-height: 350px;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 2.387rem;
+    box-sizing: border-box;
+}
+
+.desc-01 {
+    width: 961px;
+
+}
+
+.desc-02 {
+    width: 922px;
+}
+
+.desc-03 {
+    width: 829px;
+}
+
+.padding-top-90 {
+    padding-top: 90px;
+}
+
+.padding-top-80 {
+    padding-top: 80px;
+}
+
+.padding-top-58-8 {
+    padding-top: 58.8px;
+}
+
+.padding-top-58-2 {
+    padding-top: 58.2px;
+}
+
+.padding-top-60-87 {
+    padding-top: 60.87px;
+}
+
+.padding-top-56-44 {
+    padding-top: 56.44px;
+}
+
+.padding-top-53-75 {
+    padding-top: 53.75px;
+}
+
+.padding-top-11-98 {
+    padding-top: 11.98px;
+}
+
+.padding-top-14-74 {
+    padding-top: 11.98px;
+}
+
+.padding-top-30-23 {
+    padding-top: 30.23px;
+}
+
+.padding-top-19-99 {
+    padding-top: 19.99px;
+}
+
+.padding-top-29 {
+    padding-top: 29px;
+}
